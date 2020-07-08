@@ -1,0 +1,99 @@
+
+
+/*-- star common-area--*/
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.padding-80{
+    padding: 80px 0;
+}
+/*-- end common-area--*/
+/*-- star header-top--*/
+.header-top{
+    background-color: #F0FFF0;;
+}
+
+.navbar-brand img{
+    width: 198.07px;
+    height: 59px;
+}
+.bg-light {
+    background-color: #F0FFF0!important;
+}
+/*-- end header-top--*/
+/*-- star header-area--*/
+.header-area{
+    background-color:  #F0FFF0;
+}
+.header-area img{    
+    width: 554px;
+    height: 346px;
+    
+}
+.header-body{
+    background-color:  #f0fff0;
+    border: none;
+}
+/*-- end header-area--*/
+/*-- star books-area--*/
+.single-books{
+    width: 270px;
+    height: 270px;
+    background-color:  #F8FFFB;
+    border-radius: 10px;
+    transition: .4s;
+}
+.single-books:hover{
+    background-color: white;
+    box-shadow: 0 10px 40px #908a8a;
+}
+
+.single-books img{
+    width: 74px;
+    height: 82px;
+}
+/*-- end books-area--*/
+/* start course */
+.course-icon{
+    height: 20px;
+    width: 20px;
+}
+/*end course */
+/*-- star testimonial-area--*/ 
+.Testimonial-area{
+    background-color: #E5E5E5;
+}
+.test-article p{
+
+    color: #000000;;
+    padding:20px ;
+}
+.test-img img{    
+    width: 120px;
+    height: 120px;    
+}
+/*-- end testimonial-area--*/
+/*-- star footer-area--*/  
+.footer-area{  
+    padding: 50px 30px; 
+    margin: 10px 20px;
+    background-color:#282531; ;
+}
+.footer-area h6{
+    padding-top:10px;
+    color: #FFFFFF;;
+}
+.footer-area  ul li a{ 
+  padding-top:5px; 
+  text-align:left;
+  display:block;
+  color: #FFFFFF;
+}
+
+.footer-area p{
+    padding-top:45px;
+    color: #CDCDCD;    
+}
+/*-- end footer-area--*/
